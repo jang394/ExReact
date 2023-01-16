@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExReact/static/css/main.0913fca2.css",
+    "main.js": "/ExReact/static/js/main.5f7daf0a.js",
+    "index.html": "/ExReact/index.html",
+    "main.0913fca2.css.map": "/ExReact/static/css/main.0913fca2.css.map",
+    "main.5f7daf0a.js.map": "/ExReact/static/js/main.5f7daf0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0913fca2.css",
+    "static/js/main.5f7daf0a.js"
+  ]
+}
